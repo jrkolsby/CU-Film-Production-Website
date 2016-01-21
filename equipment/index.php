@@ -8,13 +8,9 @@
 </head>
 <body>
     <div id="bg"></div>
-    <nav class="small">
-        <a id="films" href="community/conversations/films">Films</a>
-        <a id="news" href="community/conversations/news">News</a>
-        <a id="community" href="community/">Community</a>
-        <a id="about" href="">About</a>
-        <a id="equipment" href="">Equipment</a>
-    </nav>
+    <?php 
+        include('../views/menu.php');
+    ?>
     <h1 id="title">About</h1>
     <section id="about">
         <h2>Hello</h2>
