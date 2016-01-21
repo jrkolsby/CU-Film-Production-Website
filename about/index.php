@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CU Film Production - About</title>
+    <title>CUFP - About</title>
     <link rel="stylesheet" href="../css/global.css">
     <link rel="stylesheet" href="../css/info.css">
 </head>
@@ -17,13 +17,16 @@
     </nav>
     <h1 id="title">Information Desk</h1>
     <section id="about">
-        <h1>An Idea</h1>
-        <h2>Hello</h2>
-        <p>The use of hello as a telephone greeting has been credited to Thomas Edison; according to one source, he expressed his surprise with a misheard Hullo.[8] Alexander Graham Bell initially used Ahoy (as used on ships) as a telephone greeting.[9][10] However, in 1877, Edison wrote to T.B.A. David, the president of the Central District and Printing Telegraph Company of Pittsburgh:</p>
-        <p>Friend David, I do not think we shall need a call bell as Hello! can be heard 10 to 20 feet away.</p>
-        <p>What you think? Edison - P.S. first cost of sender & receiver to manufacture is only $7.00.[11]</p>
-        <p>By 1889, central telephone exchange operators were known as 'hello-girls' due to the association between the greeting and the telephone.[10]</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, tempora. Optio sit obcaecati unde sequi atque. A magnam maxime, architecto quisquam, autem recusandae non, fugiat ipsum quasi eveniet aliquid expedita odit similique, unde placeat nam eum quam sed laudantium omnis in doloremque velit! Perspiciatis aliquam reprehenderit eaque ut praesentium natus doloribus nihil, dolore suscipit officiis facere cumque aliquid, aspernatur facilis quaerat. Voluptatum enim animi officiis sint voluptates? Provident laborum neque vel, necessitatibus iure at voluptate modi nostrum possimus placeat optio quam vero doloremque exercitationem aliquid atque quae officiis facilis error explicabo expedita. Quas magni cupiditate, quae facilis mollitia enim id.</p>
-    </section>
+        <h1>Lorem ipsum.</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum odit rem perferendis quidem quaerat, sunt ab, fuga doloremque quae necessitatibus!</p>
+        <h2>Lorem</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto quisquam, ad architecto quibusdam laborum modi laudantium dicta provident maxime aliquam, quasi laboriosam? Hic porro repudiandae consequuntur voluptates. Tempore voluptas consectetur expedita omnis. Deserunt optio quod exercitationem nostrum molestiae suscipit quaerat quas dolorem voluptatum facilis, ex labore excepturi, porro, dolores repudiandae nobis culpa earum. Tempora vel sunt error voluptates blanditiis quo non enim, doloribus animi, placeat a voluptatum. Saepe architecto, unde sed fuga. Accusantium incidunt excepturi veniam harum nam, doloremque, dolorum magnam. Ducimus laborum placeat, dolorum numquam itaque nam dolorem incidunt ab, molestias atque perferendis dignissimos molestiae minus voluptatem ad excepturi.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus ea incidunt maxime quisquam natus commodi voluptatum labore dolor in asperiores aliquam voluptates, vel necessitatibus, quod quam quo. Totam ut rem velit alias earum, culpa temporibus sit assumenda possimus at deserunt veritatis repellat, sunt doloremque esse, expedita eum quisquam ex aperiam!</p>
+        <h2>Lorem ipsum dolor sit amet.</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet expedita laborum, similique voluptates! Nisi similique corrupti quod consectetur numquam necessitatibus!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, quos!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore minima maxime explicabo sint optio culpa, quasi? Nemo laborum assumenda sequi quas aliquam ab nesciunt cumque facere accusantium eos, ad vero similique vel debitis repellat sunt porro quam cupiditate, veritatis qui quasi mollitia dolor pariatur ut numquam. Voluptatem nesciunt, ipsam nihil libero a. Totam molestiae repudiandae autem quaerat dignissimos voluptatum sed sit, at quae molestias! Quas asperiores animi pariatur ad ipsam voluptatibus similique in aspernatur omnis soluta, quia a error corrupti maiores quaerat, rem, atque nisi eaque. Voluptatibus illo fuga nulla nemo eaque vitae harum! Doloribus, accusantium ut! Nam soluta earum, eum ratione, quo dolores culpa sint qui veritatis id expedita ab itaque quasi consequuntur voluptas magnam reprehenderit illum molestiae repellat nisi odit debitis. Aliquid, itaque quo. Minus corporis sit, explicabo recusandae, officia eum aliquam animi. Facere, sint consequatur hic quaerat, ex porro, fugit a consectetur harum rem neque quam quas.</p>
+        <h1>Lorem.</h1>
+        </section>
 </body>
 </html>

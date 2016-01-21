@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CU Film Production</title>
+    <title>CUFP</title>
     <link rel="stylesheet" href="css/global.css">
     <link rel="stylesheet" href="css/landing.css">
 </head>
