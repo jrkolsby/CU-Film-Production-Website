@@ -9,13 +9,13 @@
 <body>
     <div id="bg"></div>
     <nav class="small">
-        <a id="films" href="community/conversations/films">Films</a>
-        <a id="news" href="community/conversations/news">News</a>
-        <a id="community" href="community/">Community</a>
-        <a id="about" href="">About</a>
-        <a id="equipment" href="">Equipment</a>
+        <a id="home" href="../">Home</a>
+        <a id="films" href="../community/conversations/films">Films</a>
+        <a id="news" href="../community/conversations/news">News</a>
+        <a id="community" href="../community/">Community</a>
+        <a id="about" href="../about/">About</a>
     </nav>
-    <h1 id="title">About</h1>
+    <h1 id="title">Equipment Closet</h1>
     <section id="about">
         <h2>Hello</h2>
         <p>The use of hello as a telephone greeting has been credited to Thomas Edison; according to one source, he expressed his surprise with a misheard Hullo.[8] Alexander Graham Bell initially used Ahoy (as used on ships) as a telephone greeting.[9][10] However, in 1877, Edison wrote to T.B.A. David, the president of the Central District and Printing Telegraph Company of Pittsburgh:</p>
