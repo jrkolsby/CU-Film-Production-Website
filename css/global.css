@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:700|PT+Serif+Caption:400italic);
+@import url(html5.css);
+
+html, body {
+    height: 100%;
+}
+div#bg {
+    height: 100%; width: 100%;
+    background: url(../assets/bg.png) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: absolute;
+    z-index: 0;
+    top: 0;
+}
+nav {
+    position: absolute;
+    top: 0; left: 0;
+    z-index: 2;
+    width: 100%;
+    height: 200px;
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0.60) 36%, rgba(0,0,0,0.00) 100%);
+    background-image: -o-linear-gradient(rgba(0,0,0,0.60) 36%, rgba(0,0,0,0.00) 100%);
+    background-image: linear-gradient(rgba(0,0,0,0.60) 36%, rgba(0,0,0,0.00) 100%);
+    text-align: center;
+    padding-top: 40px;
+}
+nav a {
+    display: inline-block;
+    text-decoration: inherit;
+    position: relative;
+    font-size: 1.1em;
+    color: #fff;
+    top: 0;
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+    margin-right: 30px;
+
+    transition: 1s all ease-in-out;
+    -o-transition: 1s all ease-in-out;
+    -moz-transition: 1s all ease-in-out;
+    -webkit-transition: 1s all ease-in-out;
+    transition: 0.2s top ease-in-out;
+    -o-transition: 0.2s top ease-in-out;
+    -moz-transition: 0.2s top ease-in-out;
+    -webkit-transition: 0.2s top ease-in-out;
+}
+nav a:last-child { margin-right: 0 }
+nav a:hover { top: -4px }
+nav a::before {
+    content: '';
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    background-size: 100% auto !important;
+}
+nav.small {
+    height: 150px;
+    padding-top: 20px;
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0.40) 36%, rgba(0,0,0,0.00) 100%);
+    background-image: -o-linear-gradient(rgba(0,0,0,0.40) 36%, rgba(0,0,0,0.00) 100%);
+    background-image: linear-gradient(rgba(0,0,0,0.40) 36%, rgba(0,0,0,0.00) 100%);
+}
+nav.small a {
+    font-size: 1em;
+    margin-right: 20px;
+}
+nav.small a::before {
+    width: 15px;
+    height: 15px;
+    margin-right: 8px;
+}
+
+nav a#about::before { background: url(../assets/about.png) no-repeat }
+nav a#news::before { background: url(../assets/news.png) no-repeat }
+nav a#films::before { background: url(../assets/films.png) no-repeat }
+nav a#equipment::before { background: url(../assets/equipment.png) no-repeat }
+nav a#community::before { background: url(../assets/community.png) no-repeat }
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+    nav a#about::before { background: url(../assets/about@2x.png) no-repeat }
+    nav a#news::before { background: url(../assets/news@2x.png) no-repeat }
+    nav a#films::before { background: url(../assets/films@2x.png) no-repeat }
+    nav a#equipment::before { background: url(../assets/equipment@2x.png) no-repeat }
+    nav a#community::before { background: url(../assets/community@2x.png) no-repeat }
+}
